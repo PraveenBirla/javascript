@@ -7,7 +7,9 @@
  const id = Symbol("123")
  const anortherid= Symbol("123") 
 
- console.log(id == anortherid)  
+ console.log(id == anortherid) 
+ console.log(id) 
+ console.log(id)  
 
   // non premitive 
   // Arrays , Objects , Function
